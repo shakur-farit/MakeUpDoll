@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 660da938dd541804b9d5fa1fe10286f8
+  m_SerializeEntries:
+  - m_GUID: 18412494ca3b33342bf9734beff703e8
+    m_Address: Assets/StaticData/Window/WindowConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WindowConfig
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 185b3a42263e2604cb18540590c82cc4
+    m_Address: Assets/StaticData/Hero/BellyConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HeroConfig
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b989c24529aa6254d8cfa93a46c2fd99, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2ebf553d82f741d4f9aee7a8b37c18c0, type: 2}
+    - {fileID: 11400000, guid: 100d86b413d3454478f0111c9d3508cc, type: 2}
